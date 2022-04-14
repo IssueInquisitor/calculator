@@ -3,7 +3,7 @@ package Calculator;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Input {
+public class Main {
     public static void main(String[] args) throws IOException {
         System.out.println("Введите данные в формате: число пробел действие пробел число.");
         System.out.println("Числа целые от 1 до 10 включительно и от I до X включительно.");
